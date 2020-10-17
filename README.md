@@ -14,7 +14,8 @@ for i in range(1000,10000):
     if (str(i*4) == str(i)[::-1]):
         print("Answer is", i)
 ```
-  
+>! 2781   
+
 # Favorite out of class Puzzle
 We technically covered this in class but it originally was the Monty hall problem
 

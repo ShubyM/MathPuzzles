@@ -1,4 +1,4 @@
-#CICS 191: First Year Seminar -- Math Puzzles.
+# CICS 191: First Year Seminar -- Math Puzzles.
 A course centered around Math Puzzles 
 
 # Favorite in class Puzzle

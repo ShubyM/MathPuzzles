@@ -18,6 +18,5 @@ for i in range(1000,10000):
 # Favorite out of class Puzzle
 We technically covered this in class but it originally was the Monty hall problem
 
-  
-
+https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:dependent-events-precalc/v/monty-hall-problem
 

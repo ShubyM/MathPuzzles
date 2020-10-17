@@ -1,6 +1,3 @@
-# MathPuzzles
-Place to store assignments for CS191
-
 #CICS 191: First Year Seminar -- Math Puzzles.
 A course centered around Math Puzzles 
 
